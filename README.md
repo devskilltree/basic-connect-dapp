@@ -1,6 +1,6 @@
 # Basic Connect dApp
 
-A collection of dApps that demos how to connect to the Ethereum network.
+A collection of dApps that demos about how to connect to the Ethereum network.
 
 ## Ethers.js
 
